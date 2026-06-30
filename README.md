@@ -2,7 +2,7 @@
 
 A live, interactive Streamlit dashboard that compares the price performance of the world's biggest tech companies — built as part of the *Ship It & Prove It* university assignment.
 
-🔗 **Live App:** [Add your Streamlit URL here after deployment]
+🔗 **Live App:** https://stock-explorer-hnymwhwpzlnv8sv6p6bvh8.streamlit.app/
 
 ---
 
